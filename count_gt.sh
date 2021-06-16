@@ -1,2 +1,2 @@
 
-find . -type f -name "*.json" -print | wc -l
+find . -type f -name "*_gt.json" -print | wc -l
